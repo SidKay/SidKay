@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SidKay
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning HTML, CSS and Python
+- 💞️ I’m looking to collaborate someday once I get a hang of everything
