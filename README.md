@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @SidKay
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning HTML, CSS and Python
-- 💞️ I’m looking to collaborate someday once I get a hang of everything
+- Hello World!
+- I'm SidKay.
+- I am an aspiring programmer who is mainly learning C++ and Python. But I also know a little bit of other programming languages such as HTML, CSS, Java and C#.
+- I'm also a university student who is studying Computer Science. School sucks btw.
+- I aim to use this platform to keep some programming-based assignments I do, and maybe any kind of personal programming project that I happen to do someday.
+- I'm really looking forward to creating something... good. I guess...
